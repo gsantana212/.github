@@ -4,7 +4,7 @@
 
 I'm building SkillHub: a marketplace for pre-made AI agents + skill bundles. Buy → unzip → ship in minutes.
 
-> *All other projects archived 2026-06-23 to focus on shipping one great thing.*
+> *Focused on shipping SkillHub. Other repos kept as historical snapshots — not abandoned, but not the priority.*
 
 ---
 
@@ -14,7 +14,11 @@ I'm building SkillHub: a marketplace for pre-made AI agents + skill bundles. Buy
 
 ### 📦 Active repos
 - [`gsantana212/skill-hub`](https://github.com/gsantana212/skill-hub) — public marketplace site + catalog (the live product)
-- [`gsantana212/skillhub`](https://github.com/gsantana212/skillhub) — the SkillHub business repo (LLC / business plumbing)
+- [`gsantana212/ada-restore`](https://github.com/gsantana212/ada-restore) — shipped v1.0.0; reference impl for restoring Ada agents from backups
+- [`gsantana212/smile-gems`](https://github.com/gsantana212/smile-gems) — active client project (dental gem configurator)
+- [`gsantana212/ada-containers-backup`](https://github.com/gsantana212/ada-containers-backup) — rolling snapshot of container backup tooling; updated as needed
+
+> 📨 *SkillHub business plumbing (LLC, payments ops, legal) is private — reach out at gsantana212@ if interested.*
 
 ### 🛠 Stack
 - Hermes Agent + Ada/Max/Sora/Coder mesh

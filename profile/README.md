@@ -13,6 +13,10 @@ I'm building SkillHub: a marketplace for pre-made AI agents + skill bundles. Buy
 - **[gsantana212.github.io/skill-hub/](https://gsantana212.github.io/skill-hub/)** — legacy mirror
 
 ### 📦 Active repos
+
+See **[`gsantana212/index`](https://github.com/gsantana212/index)** for the categorized listing (ada-stack / product / client / profile).
+
+Featured:
 - [`gsantana212/skill-hub`](https://github.com/gsantana212/skill-hub) — public marketplace site + catalog (the live product)
 - [`gsantana212/ada-restore`](https://github.com/gsantana212/ada-restore) — shipped v1.0.0; reference impl for restoring Ada agents from backups
 - [`gsantana212/smile-gems`](https://github.com/gsantana212/smile-gems) — active client project (dental gem configurator)
